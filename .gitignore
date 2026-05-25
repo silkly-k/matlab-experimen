@@ -9,6 +9,10 @@
 *.flac
 *.ogg
 
+# 技能文件（通过npx安装，不需要版本管理）
+.agents/
+skills-lock.json
+
 # 操作系统文件
 Thumbs.db
 .DS_Store
