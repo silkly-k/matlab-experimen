@@ -1,0 +1,15 @@
+# MATLAB临时文件
+*.asv
+*.m~
+*.mat
+
+# 大型音频文件（不提交到Git）
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# 操作系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
